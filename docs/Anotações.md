@@ -25,7 +25,7 @@ JavaScript é uma linguagem fracamente tipada, você não precisa falar que tipo
 ## Declaração de variáveis
 
 Evite usar nomes genéricos e siglas.
-exemplo:
+
 ~~~ JavaScript
     let numero = 5;// que número? da onde?
     let valor = ''; //qual valor?
