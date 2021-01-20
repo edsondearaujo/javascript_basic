@@ -30,3 +30,10 @@ Evite usar nomes genéricos e siglas.
     let numero = 5;// que número? da onde?
     let valor = ''; //qual valor?
     let nc = "fulano de tal"; //nome completo 
+~~~
+
+## Number
+
+Procurar especificação da imprecisão de ponto flutuante no site do ECMA.
+[ECMA](https://www.ecma-international.org/)
+
