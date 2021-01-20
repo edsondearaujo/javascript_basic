@@ -10,3 +10,8 @@ console.log("show!" * 2);
 /* Existe uma especificação que gera uma imprecisão de ponto flutuante no javascript.
 Procurar a especificação*/
 console.log(0.1 + 0.7);
+
+/* Nesse exemplo você pode perceber que não é possível chamar um literal
+diretamente com uma função. Mas pode chamar o literal dentro de parenteses*/
+//console.log(20.toString());
+console.log((20.555).toFixed(2));
