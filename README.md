@@ -1,5 +1,5 @@
 # Bootcamp Shimejito
-![Shimejito](https://github.com/edsondearaujo/bootcamp_js/blob/number/docs/imagens/shimejito.png)
+![Shimejito](https://github.com/edsondearaujo/bootcamp_js/blob/main/docs/imagens/shimejito.png)
 
 
 ## Sobre
