@@ -12,4 +12,7 @@ console.log('Bem-vindos ao ' + curso + '!'); // concatenação simples
 
 console.log(curso.replace('p', 'x')); // substitue os valores
 
-console.log('IoT,Blockchain,Agricultura,Automação'.split(','));
+/* como lidar com um conteúdo no formato CSV,
+formato em que os dados são separados por ponto e vírgula.
+Para isso passamos para o método uma expressão regular.*/
+console.log('IoT ; Blockchain ; Agricultura ; Automação'.split(/\s*;\s*/));
