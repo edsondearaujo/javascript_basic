@@ -12,5 +12,4 @@ console.log('Bem-vindos ao ' + curso + '!'); // concatenação simples
 
 console.log(curso.replace('p', 'x')); // substitue os valores
 
-/*var lista = 'IoT,Blockchain,Agricultura,Automação';
-console.log(lista.split(','));*/
+console.log('IoT,Blockchain,Agricultura,Automação'.split(','));
