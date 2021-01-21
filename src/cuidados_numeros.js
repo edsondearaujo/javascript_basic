@@ -1,7 +1,11 @@
 console.log(7/0); // um número dividido poe zero dente ao infinito.
 
-// Nesse caso o Javascript entende que existe um número dentro da string e realiza a operação.
+/* O Javascript percebe que não faz sentido realizar essa operação,
+então ele converte a string para número e ver se dar certo.*/
 console.log("15" / 3);
+
+console.log('5' + 5); /* Aqui o javascript vai realizar a concatenação.
+Pois, o símbolo de + faz sentido no mundo das strings, que tem prioridade. */
 
 /*Em algumas linguagens retorna o número dois duas vezes,
 aqui no javascript não funciona. retorna um NaN(Not a Number)*/
