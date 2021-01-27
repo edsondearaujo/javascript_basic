@@ -20,7 +20,7 @@ O JavaScript é organizado em sentenças de código, podendo terminar ou não, c
 
 ## Tipagem
 
-JavaScript é uma linguagem fracamente tipada, você não precisa falar que tipo de variável foi declarada (inetiro, string). Então vemos que javascript tem uma tipagem dinâmica, isso deixa a linguagem mais flexível
+JavaScript é uma linguagem fracamente tipada, você não precisa falar que tipo de variável foi declarada (inteiro, string). Então vemos que javascript tem uma tipagem dinâmica, isso deixa a linguagem mais flexível
 
 ## Declaração de variáveis
 
@@ -34,6 +34,5 @@ Evite usar nomes genéricos e siglas.
 
 ## Number
 
-Procurar especificação da imprecisão de ponto flutuante no site do ECMA.
-[ECMA](https://www.ecma-international.org/)
+Procurar especificação da imprecisão de ponto flutuante no site do [ECMA](https://www.ecma-international.org/).
 
