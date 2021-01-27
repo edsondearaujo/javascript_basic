@@ -36,3 +36,6 @@ Evite usar nomes genéricos e siglas.
 
 Procurar especificação da imprecisão de ponto flutuante no site do [ECMA](https://www.ecma-international.org/).
 
+
+# Referências
+[StackBlitz](https://stackblitz.com/)
