@@ -7,3 +7,4 @@ Este Repositório é dedicado ao estudo de JavaScript, abordando o conteúdo de 
 
 ## Referência Bibliográfica
 [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+[Metring](https://metring.com.br/artigos/javascript)
