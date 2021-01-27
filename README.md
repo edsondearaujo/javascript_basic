@@ -2,7 +2,7 @@
 ![JavaScript](https://github.com/edsondearaujo/javascript_basic/blob/develop/docs/imagens/js_logo.png)
 
 ## Sobre
-Este Repositório é dedicado ao estudo de JavaScript, abordando o conteúdo de programação básica.
+Este Repositório guarda uma parte de um curso de programação básica com JavaScript que estou criando.
 
 
 ## Referência Bibliográfica
