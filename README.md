@@ -1,5 +1,5 @@
 # O básico de JavaScript
-![JavaScript](https://github.com/edsondearaujo/javascript_basic/blob/main/docs/imagens/js_logo.png)
+![JavaScript](https://github.com/edsondearaujo/javascript_basic/blob/develop/docs/imagens/js_logo.png)
 
 ## Sobre
 Este Repositório é dedicado ao estudo de JavaScript, abordando o conteúdo de programação básica.
