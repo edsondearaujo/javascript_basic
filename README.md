@@ -2,7 +2,7 @@
 ![JavaScript](https://github.com/edsondearaujo/javascript_basic/blob/develop/docs/imagens/js_logo.png)
 
 ## Sobre
-Este Repositório guarda uma parte de um curso de programação básica com JavaScript que estou criando.
+Este Repositório guarda parte de um curso de programação básica com JavaScript que estou elaborando.
 
 
 ## Referência Bibliográfica
