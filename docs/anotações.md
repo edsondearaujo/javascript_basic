@@ -1,5 +1,15 @@
 # Anotações sobre JavaScript
 
+## Executando JavaScript
+
+### Online
+- [repl](https://repl.it/)
+- [JS Fiddle](https://jsfiddle.net/)
+
+### Terminal
+
+            node nome_do_arquivo.js
+
 ## Organização do código em JavaScript
 
 O JavaScript é organizado em sentenças de código, podendo terminar ou não, com ponto e vígula.
