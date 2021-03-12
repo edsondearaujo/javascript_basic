@@ -1,7 +1,7 @@
 # Ementa
 
 ## Seção 1: Introdução
-- Apresentação: Curso básico de lógica e programação de computadores com JavaScript
+- Apresentação: Lógica de programação com JavaScript
 
 ## Seção 2: Configuração do ambiente de desenvolvimento
 - Instalação do VSCode (Linux)
