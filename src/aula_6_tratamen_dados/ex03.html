@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 6</title>
+
+    <style>
+        body {
+            background-color: #5ab999;
+            font: normal 20pt Arial;
+        }
+    </style>
+
+</head>
+<body>
+    <h1>Aula 6</h1>
+    <p>Exercício 3</p>
+    <h2><strong>Conversão de tipos de dados</strong></h2>
+
+    <script>
+        /* Vamos fazer a conversão de STRING para INTEIRO.
+        var numero_1 = parseInt(window.prompt('Digite o primeiro número'))
+        var numero_2 = parseInt(window.prompt('Digite o segundo número')) 
+        
+        // Vamos fazer a conversão de STRING para PONTO FLUTUANTE.
+        var numero_1 = parseFloat(window.prompt('Digite o primeiro número'))
+        var numero_2 = parseFloat(window.prompt('Digite o segundo número')) 
+        */
+        // Usando somento o a classe Number.
+        var numero_1 = Number(window.prompt('Digite o primeiro número'))
+        var numero_2 = Number(window.prompt('Digite o segundo número')) 
+
+        var soma = numero_1 + numero_2
+        
+        window.alert('Resultado: ' + soma) // concatenação
+
+
+    </script>
+    
+</body>
+</html>
