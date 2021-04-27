@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM</title>
+
+    <style>
+        body {
+            background-color: rgba(143, 61, 2, 0.883);
+            font: normal 20pt Arial;
+            color: rgba(226, 213, 96, 0.746);
+        }
+    </style>
+</head>
+<body>
+    <h1>Aprendendo DOM</h1>
+    <p>Nessa aula vamos dá os primeiros passos de <strong>DOM</strong></p>
+    <div id="iniciar" >Iniciar Teste</div>
+    <div class="relatorio" >Gerar Relatório</div>
+    <div name="finalizar" >Finalizar Teste</div>
+    <script>
+        var corpo = window.document.body
+        var paragrafo = window.document.getElementsByTagName('p')[0]
+        
+        
+        var inicia = window.document.querySelector('div#iniciar')
+        var inicia = window.document.querySelector('div#iniciar')
+
+
+        var relatorio = window.document.getElementsByClassName('relatorio')[0]
+        var finalizar = window.document.getElementsByName('finalizar')[0]
+
+        finalizar.innerText = 'Mudou Aqui'
+        
+        //window.document.write(paragrafo.innerHTML)
+
+        corpo.style.background = 'black'
+        paragrafo.style.color = 'green'
+        //inicia.style.color = 'blue'
+        relatorio.style.color = 'blue'
+        finalizar.style.color = 'blue'
+
+    </script>
+</body>
+</html>
